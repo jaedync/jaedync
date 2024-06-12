@@ -1,1 +1,1 @@
-Currently finishing my Computer Engineering degree at LeTourneau University, 2024.
+Currently working as an Industrial Programmer at [Vertech](https://www.vertech.com/)
